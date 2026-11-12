@@ -1,0 +1,51 @@
+# Secretos y entorno
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+secrets/
+
+# Claude Code: config local y estado
+.claude/settings.local.json
+.claude/worktrees/
+CLAUDE.local.md
+CONTRIBUTING.md
+
+# Java / Maven / Gradle
+target/
+build/
+.gradle/
+*.class
+*.jar
+*.war
+!.mvn/wrapper/maven-wrapper.jar
+
+# Node
+node_modules/
+npm-debug.log*
+
+# PHP
+vendor/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# SO
+.DS_Store
+Thumbs.db
+
+# Logs y temporales
+*.log
+*.tmp
+*.swp
+
+# Trabajo del profesorado (no se publica al alumnado)
+docsProfe/
+.claude/
