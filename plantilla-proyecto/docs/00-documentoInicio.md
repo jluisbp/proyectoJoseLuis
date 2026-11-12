@@ -8,65 +8,71 @@
 
 | | |
 |---|---|
-| **Nombre** (real o alias, como prefieras: [por qué](publicacion-y-privacidad.md)) | |
-| **Usuario de GitHub** | |
-| **Repositorio del proyecto** | *enlace* |
-| **Ciclo y curso** | DAW, 2.º · curso 2026-27 |
-| **Fecha** | 2026-11-06 |
+| **Jose Luis Blanco Pérez** | |
+| **jluisbp** | |
+| **Repositorio del proyecto** | *https://github.com/jluisbp/proyectoJoseLuis.git* |
+| **DAW, 2.º · curso 2026-27** | DAW, 2.º · curso 2026-27 |
+| **2026-11-06** | 2026-11-06 |
 
 ## 2. Nombre del proyecto
 
-*Nombre provisional (puede cambiar). Una frase de qué es.*
+Actualización del Miski Wasi
 
 ## 3. Qué quiero hacer
 
-*Descríbelo con tus palabras, en 5 a 10 líneas: qué es, qué hace y cómo se usaría.*
+Una aplcación web del restaurante de comida peruana Miski Wasi, esta aplicacion web debería, ayudar al cliente que no conoce ni el restaurante ni la cultura y gastronomía peruana, ha entender mejor que sensacion transmitira el local y que comida se le va a servir, también los clientes deberan poder hacer reservas desde la página web, sin necesidad de llamar, y estas reservas deberan ser guardadas en la base de datos del restaurante, en donde deberan ser gestionadas por un CRUD con una interfaz sencilla, teniendo secciones claras en donde se podran selecionar, por ejemplo, las reservas de cierta fecha y/o de cierta hora, ademas de que se puedan borrar si se cancelan o si hubo alguna equivocación.
 
 ## 4. Qué problema o necesidad resuelve
 
-*¿Qué necesidad real del sector o de un colectivo cubre? ¿Cómo lo sabes (la has visto, hablaste con alguien, hay datos)? Anótalo, se desarrolla en `01-analisis.md`.*
+Resuelve el problema que tiene el local de, todavia hacer las reservas llendo al local personalmente o llamando por teléfono y de estas siendo guardadas a papel y boli. Me di cuenta revisando su página web actual y hablando con la dueña.
 
 ## 5. Para quién
 
-*Quién lo usaría (personas usuarias o clientes) y en qué contexto (empresa, asociación, uso personal...).*
+Lo usarán los clientes y los dueños del local, bajo el contexto de empresa.
 
 ## 6. Funcionalidades principales
 
-*Lista de 3 a 6 cosas que debe hacer. Marca cuáles son imprescindibles para una **primera versión mínima** (la que quieres tener funcionando antes del 31-mar).*
-
 | # | Funcionalidad | ¿Imprescindible? (sí / no) |
 |---|---|---|
-| 1 | | |
+| 1 | Crear y gestionar reservas | sí
+| 2 | Tener una interfaz visual sencilla | sí
+| 3 | Dar conocer la cultura y gastronomía de Peru | sí
+| 4 | Carta interactiva y actualizable del restaurante | sí
 
 ## 7. Tecnologías previstas
 
-*Lenguajes, frameworks, base de datos, despliegue... Y cuáles ya conoces y cuáles tendrás que aprender.*
-
 | Tecnología | Para qué | Nivel actual (nada / algo / bien) |
 |---|---|---|
-| | | |
+| Docker Desktop | Base de datos | algo |
+| JavaScript | Backend | algo |
+| HTML/CSS | Frontend | bien |
 
 ## 8. Dónde se integra con los módulos de 2.º
 
-*Marca los módulos de 2.º cuyos contenidos usarás de forma real en el proyecto (debe haber **al menos tres**).*
-
-- [ ] Desarrollo web en entorno cliente (0612)
-- [ ] Desarrollo web en entorno servidor (0613)
-- [ ] Despliegue de aplicaciones web (0614)
-- [ ] Diseño de interfaces web (0615)
+- [X] Desarrollo web en entorno cliente (0612)
+- [X] Desarrollo web en entorno servidor (0613)
+- [X] Despliegue de aplicaciones web (0614)
+- [X] Diseño de interfaces web (0615)
 
 ## 9. Datos y empresas
 
 - ¿El proyecto parte de una **empresa** (por ejemplo, de tus prácticas)? **Sí / No**. Si es sí: ¿tienes su **autorización escrita** para usar información suya? **Sí / No / En trámite**. Se plantea como un encargo simulado.
+
+Si, fomra parte del restaurante llamado Miski Wasi, tengo autorización de la dueña para usar su información
+
 - ¿Usará **datos personales reales**? **Debe ser que no**: usa datos de ejemplo.
+
+No se deberían de usar si se puede evitar.
+
 
 ## 10. Riesgos y dudas iniciales
 
-*Lo que más te preocupa o no tienes claro (tiempo, tecnología, alcance...).*
+Lo que me preocupa principalmente es que si con los recursos que poseo podre realizar la aplicación web correctamente y con todo lo que debe tener.
+
 
 ## 11. Qué espero aprender
 
-*Una o dos frases.*
+Manejar un proyecto *real*, como se realizan aplicaciones web realisticamente.
 
 ---
 
