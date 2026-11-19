@@ -6,7 +6,7 @@
 
 *Clasifica **5 o más** empresas del sector por sus características organizativas y el producto o servicio que ofrecen. Describe con detalle **una empresa tipo**: organigrama (un diagrama Mermaid) y funciones de cada departamento.*
 
-Empresas: Sabe a Perú en Oviedo, 
+Empresas: Sabe a Perú, 
 
 
 ## 2. Necesidades y oportunidades (CE 1c, 1d)
