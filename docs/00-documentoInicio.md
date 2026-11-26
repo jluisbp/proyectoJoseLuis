@@ -16,11 +16,11 @@
 
 ## 2. Nombre del proyecto
 
-Actualización del Miski Wasi
+Actualización de un restaurante peruano
 
 ## 3. Qué quiero hacer
 
-Una aplcación web del restaurante de comida peruana Miski Wasi, esta aplicacion web debería, ayudar al cliente que no conoce ni el restaurante ni la cultura y gastronomía peruana, ha entender mejor que sensacion transmitira el local y que comida se le va a servir, también los clientes deberan poder hacer reservas desde la página web, sin necesidad de llamar, y estas reservas deberan ser guardadas en la base de datos del restaurante, en donde deberan ser gestionadas por un CRUD con una interfaz sencilla, teniendo secciones claras en donde se podran selecionar, por ejemplo, las reservas de cierta fecha y/o de cierta hora, ademas de que se puedan borrar si se cancelan o si hubo alguna equivocación.
+Una aplcación web del restaurante de comida peruana, esta aplicacion web debería, ayudar al cliente que no conoce ni el restaurante ni la cultura y gastronomía peruana, ha entender mejor que sensacion transmitira el local y que comida se le va a servir, también los clientes deberan poder hacer reservas desde la página web, sin necesidad de llamar, y estas reservas deberan ser guardadas en la base de datos del restaurante, en donde deberan ser gestionadas por un CRUD con una interfaz sencilla, teniendo secciones claras en donde se podran selecionar, por ejemplo, las reservas de cierta fecha y/o de cierta hora, ademas de que se puedan borrar si se cancelan o si hubo alguna equivocación.
 
 ## 4. Qué problema o necesidad resuelve
 

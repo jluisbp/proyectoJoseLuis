@@ -4,10 +4,45 @@
 
 ## 1. Sector y empresas (CE 1a, 1b)
 
-*Clasifica **5 o más** empresas del sector por sus características organizativas y el producto o servicio que ofrecen. Describe con detalle **una empresa tipo**: organigrama (un diagrama Mermaid) y funciones de cada departamento.*
+**Sector:** Restaurantes de comida peruana en España, con servicio en local y reserva de mesa.
 
-Sector: Restaurante de comida peruana
+**CNAE:** 56.11
 
+| Empresa | Tamaño | Forma jurídica | Ámbito | Servicio | Fuente y fecha | Estado |
+|---|---|---|---|---|---|---|
+| Mi Huarique (Gijón) | 5 personas | S.L. | Local: una sede en Gijón | Casa cevichera y pisco bar; carta peruana; reserva online | [mi-huarique.com](https://mi-huarique.com) · 2026-11-26 | Leído |
+| Qapaq (Tenerife) | 4 personas | S.L.U | Local: sur de Tenerife | Cocina peruana y mediterránea; menús degustación, infantil y vegetariano; reserva online | [qapaqtenerife.com](https://qapaqtenerife.com/) · 2026-11-26 | Leído |
+| Entre Dos Mons (Palamós) | 5 personas | Sociedad Civil | Local: una sede en Palamós | Fusión peruana y catalana; menús y cheques regalo; reserva online | [entredosmons.es](https://entredosmons.es/) · 2026-11-26 | Leído |
+| Inti de Oro (Madrid) | 11 a 50 personas | S.L. | Regional: cuatro sedes en Madrid | Cocina peruana; reserva online, a domicilio, menú degustación y terraza | [intideoro.com](https://intideoro.com/) · 2026-11-26 | Leído |
+| Grupo Quispe (Madrid) | 11 a 50 personas | S.L. | Nacional: Madrid y una sede en Lisboa | Grupo de restaurantes peruanos y nikkei: Quispe, Ponja y Sillao | [grupoquispe.com/es/historia](https://www.grupoquispe.com/es/historia) · 2026-11-26 | Leído |
+
+**Agrupación de las empresas:**
+
+- **Restaurante peruano de una sola sede:** Mi Huarique, Qapaq, Entre Dos Mons.
+- **Grupo con varias sedes:** Inti de Oro (cuatro en Madrid), Grupo Quispe (varias marcas en Madrid y Lisboa).
+
+**Empresa tipo: Mi Huarique.** La elijo porque representa el caso más común de la tabla restaurante peruano de una sola sede y su web publica carta, bodega, cócteles y reserva, suficiente para describir sus departamentos.
+
+```mermaid
+flowchart TD
+    DIR["Dirección"]
+    DIR --> COC["Cocina"]
+    DIR --> BAR["Barra · pisco bar"]
+    DIR --> SAL["Sala"]
+    DIR --> ADM["Administración"]
+    COC --> AYU["Ayudantes de cocina"]
+    SAL --> RES["Reservas y atención al cliente"]
+    ADM --> COM["Compras y proveedores"]
+```
+
+*Organigrama y funciones: deducción mía a partir de lo que publica su web. La empresa no publica su estructura.*
+
+- **Dirección:** decide carta, precios y horarios, y responde del negocio.
+- **Cocina:** prepara los ceviches y los platos de carta (lomo saltado, ají de gallina, anticuchos).
+- **Ayudantes de cocina:** preparan el género y apoyan en el servicio.
+- **Barra · pisco bar:** prepara los cócteles de pisco (chilcano, pisquiri) y sirve la bodega.
+- **Sala:** atiende a los clientes y organiza las mesas durante el servicio.
+- **Reservas y atención al cliente:** gestiona las reservas por la web y por teléfono.
 
 ## 2. Necesidades y oportunidades (CE 1c, 1d)
 

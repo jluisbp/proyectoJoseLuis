@@ -6,4 +6,4 @@ Esta bitácora **hace de declaración de uso de IA** del módulo.
 
 | Fecha | Agente y modelo | Qué pedí | Qué acepté o cambié | Dónde quedó | Revisión humana |
 |---|---|---|---|---|---|
-| *(ejemplo ficticio, bórralo)* 2026-11-17 | `guia` con `opencode/deepseek-v4.1-flash-free` | «Guíame en el paso 0» | Seguí sus pasos; el nombre del repositorio lo cambié a mano | (sin ficheros) | sí |
+| 2026-11-26 | `documentador` · `opencode/deepseek-v4.1-flash-free` | Redactar el apartado 1 con tabla de 5 empresas y organigrama | Elegí Miski Wasi como empresa tipo, fijé el ámbito nacional y sustituí empresas dos veces | `docs/01-analisis.md` | Sí |
