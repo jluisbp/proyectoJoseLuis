@@ -41,6 +41,6 @@ Para una entrevista conviene tu **nombre real**. Si prefieres no exponerlo, usa 
 
 | Pregunta | Mi respuesta |
 |---|---|
-| ¿Nombre real o alias? | [RELLENAR] |
-| ¿Repositorio público o privado hasta la defensa (excepción)? | [RELLENAR] |
-| ¿Dónde se guarda mi seguimiento? | [RELLENAR] |
+| ¿Nombre real o alias? | Jose Luis |
+| ¿Repositorio público o privado hasta la defensa (excepción)? | Publico: https://github.com/jluisbp/proyectoJoseLuis.git |
+| ¿Dónde se guarda mi seguimiento? | En el propio respositorio |

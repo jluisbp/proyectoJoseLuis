@@ -16,11 +16,14 @@
 
 *El problema en **una frase**. Después, **3-5 preguntas** que vas a contestar con este documento (por ejemplo: «¿Qué soluciones existen?», «¿Cómo ganan dinero?», «¿Qué tecnologías usan?»). Indica **dónde y cuándo** buscaste (buscadores, tiendas de aplicaciones, repositorios, informes del sector).*
 
-**Problema:** [RELLENAR: una frase]
+**Problema:** El cliente solo puede hacer reservas llamando o yendo personalmente al local.
 
 | # | Pregunta | Dónde busqué | Fecha |
 |---|---|---|---|
-| P1 | [RELLENAR] | | |
+| P1 | ¿Qué soluciones existen para reservar mesa en un restaurante? | Google (buscador web) | 2026-11-26 |
+| P2 | ¿Cuánto cuestan? | Google (buscador web) | 2026-11-26 |
+| P3 | ¿Cómo gestionan las reservas (disponibilidad de mesas, cancelaciones, avisos)? | Google (buscador web) | 2026-11-26 |
+| P4 | ¿Qué les falta? | Google (buscador web) | 2026-11-26 |
 
 ## 2. Soluciones existentes (CE 1a, 1c, 2a)
 
