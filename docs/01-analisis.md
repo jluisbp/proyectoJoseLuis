@@ -46,11 +46,30 @@ flowchart TD
 
 ## 2. Necesidades y oportunidades (CE 1c, 1d)
 
-*Lista **priorizada** de las necesidades más demandadas, con el criterio de priorización y la fuente. Valora las oportunidades de negocio con **al menos un dato cuantitativo** y su fuente.*
+**Criterio de orden:** cuántas de las cinco webs del apartado 1 ya ofrecen esa función. Cuantas más la ofrecen, más extendida está la necesidad. Aviso: una web enseña lo que el restaurante decidió vender, no necesariamente lo que le piden sus clientes.
+
+1. **Reservar mesa sin llamar** (4 de 5): Mi Huarique, Qapaq, Entre Dos Mons e Inti de Oro.
+2. **Consultar la carta actualizada** (4 de 5): las mismas cuatro.
+3. **Leer la información en otro idioma** (2 de 5): Qapaq (inglés) y Entre Dos Mons (catalán, inglés y francés).
+4. **Contratar menús para grupos y eventos** (2 de 5): Qapaq (cena de empresa) y Entre Dos Mons (menús y cheques regalo).
+
+**Dato del sector:** Madrid tiene más de **300 restaurantes peruanos** (según el Ayuntamiento) y en toda España pasan de **600** (según el Ministerio de Relaciones Exteriores de Perú, presentado en Madrid Fusión). En Madrid solo la cocina italiana la supera, con **664** (datos de GastroRanking). Fuente: [El Confidencial, 2026-11-14](https://www.elconfidencial.com/gastronomia/2026-11-14/cocina-peruana-barrio-conquista-espana_4462564/), consultado el 2026-11-26 · `leído`.
+
+**Valoración de la oportunidad:** Hay mercado y crece, pero algunas necesidades como reservar mesa sin llamar o consultar una carta actualizada no estan sin cubrir. Cuatro de cada cinco restaurantes de la tabla ya dejan reservar por internet y tienen una carta actualizada, así que no se inventa nada en ese aspecto, solo cubre una carencia concreta de un local que aún toma las reservas por teléfono y en papel. Por otro lado la parte de leer la información en otro idioma y poder contratar menús para grupos y eventos es algo que solo hacen 2 de las 5 empresas con lo que puedo ver que hay un pequeño margen en el que se puede innovar.
 
 ## 3. Tipo de proyecto elegido (CE 1e)
 
-*Qué proyecto das como respuesta y por qué, frente a otras alternativas.*
+**Tres respuestas posibles al problema:**
+
+| Opción | Qué es | Coste | Tiempo | Encaje con lo que sé | Encaje con los módulos de 2.º |
+|---|---|---|---|---|---|
+| **A. Aplicación web a medida** | Frontend + backend Java/Spring Boot + base de datos SQL; reservas para clientes y panel de gestión | 0 € de licencias (software libre); el coste es el tiempo | El del curso: varias semanas | Medio: HTML/CSS bien, JavaScript y backend | Alto: toca DWEC, DWES, DIW Y DAW |
+| **B. Adaptar una herramienta existente (TheFork)** | Contratar la plataforma y configurar el restaurante | Unos 30 € al mes de suscripción, más 2-4 € por comensal que reserva desde la plataforma | Días: alta y configuración | Bajo: no se programa | Bajo: no encaja con ningún módulo |
+| **C. Aplicación móvil nativa** | App para iOS y Android, instalada en el teléfono del cliente | 0 € de licencias; cuenta de desarrollador de pago (precio no comprobado) | Meses: aprender el entorno móvil, además del backend | Bajo: no he programado apps móviles | Medio: tocaría DWEC y DWES, pero no DAW ni DIW |
+
+*Fuente del coste de TheFork: [ZUI Technology, 2026-09-19](https://www.zuitechnology.com/es/blog/comisiones-thefork), consultado el 2026-11-26 · `leído`.*
+
+**Elijo A.** Es la única que ejercita los módulos de 2.º y la única que cumple lo que pide el dueño: que las reservas se guarden en la base de datos del restaurante y se gestionen con un CRUD propio. Descarto **B** porque resolvería la necesidad más rápido y con menos riesgo, pero no es un proyecto del ciclo: no hay nada que programar ni que defender como propio, y a la cuota mensual se le suma una comisión por cada comensal que llega de la plataforma. Descarto **C** porque obliga a aprender un entorno nuevo (Kotlin, Swift o un framework multiplataforma) dentro del mismo plazo y porque el dueño necesita gestionar las reservas desde un ordenador, no desde el móvil: acabaría haciendo también la web. Además, una app nativa no encaja con DAW ni con DIW.
 
 ## 4. Requisitos y restricciones (CE 1f)
 

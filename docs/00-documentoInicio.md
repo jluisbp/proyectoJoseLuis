@@ -24,7 +24,7 @@ Una aplcación web del restaurante de comida peruana, esta aplicacion web deber�
 
 ## 4. Qué problema o necesidad resuelve
 
-Resuelve el problema que tiene el local de, todavia hacer las reservas llendo al local personalmente o llamando por teléfono y de estas siendo guardadas a papel y boli. Me di cuenta revisando su página web actual y hablando con la dueña.
+Resuelve el problema que tiene el local de, todavia hacer las reservas llendo al local personalmente o llamando por teléfono y de estas siendo guardadas a papel y boli. Me di cuenta revisando su página web actual y hablando con el dueño.
 
 ## 5. Para quién
 
@@ -58,7 +58,7 @@ Lo usarán los clientes y los dueños del local, bajo el contexto de empresa.
 
 - ¿El proyecto parte de una **empresa** (por ejemplo, de tus prácticas)? **Sí / No**. Si es sí: ¿tienes su **autorización escrita** para usar información suya? **Sí / No / En trámite**. Se plantea como un encargo simulado.
 
-Si, fomra parte del restaurante llamado Miski Wasi, tengo autorización de la dueña para usar su información
+Si, fomra parte del restaurante llamado Miski Wasi, tengo autorización del dueño para usar su información
 
 - ¿Usará **datos personales reales**? **Debe ser que no**: usa datos de ejemplo.
 
